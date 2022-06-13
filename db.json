@@ -1,0 +1,14 @@
+{
+    "contacts":[
+        {
+            "id":"53cc9c5e-7fcc-4225-8eec-6ee83a25db8c",
+            "name":"Pritisha",
+            "email":"pritisha@gmail.com"
+        },
+        {   
+            "id":"30fb8cb0-d03f-4ae3-8945-31b99d49d28b",
+            "name":"Pratik",
+            "email":"pratik@gmail.com"
+        }
+    ]
+}
